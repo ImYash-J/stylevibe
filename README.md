@@ -31,3 +31,12 @@ You can view the live site here:
 ![Website Screenshot](stylevibe-preview.png)
 
 ![Website Screenshot](stylevibe-preview2.png)
+
+
+## 🚀 Built With
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
