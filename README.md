@@ -28,3 +28,4 @@ stylevibe/
 You can view the live site here:  
 👉 [https://imyash-j.github.io/stylevibe](https://imyash-j.github.io/stylevibe)
 
+![Website Screenshot](stylevibe-preview.png)(stylevibe-preview1.png)
