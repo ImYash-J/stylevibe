@@ -22,3 +22,9 @@ stylevibe/
 ├── styles.css # Styling for layout and dark theme
 ├── logo.png # Brand logo
 └── README.md # Project info
+
+## 🌐 Live Preview
+
+You can view the live site here:  
+👉 [https://imyash-j.github.io/stylevibe](https://imyash-j.github.io/stylevibe)
+
